@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Gabriel Alejandro
+# Hi, I'm Gabriel Alejandro
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alfafawolf.itch.io/)
 
-### 🛠 I code with
+### 🛠 Technologies I work with
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
